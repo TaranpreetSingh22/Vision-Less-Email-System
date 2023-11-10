@@ -1,4 +1,7 @@
 # Vision-Less-Email-System
+
+This is a project where the users can send the Emails using Voice,it was built for visually impaired users.It has a simple GUI and both normal people and visually impaired users can use it with ease.It has a voice bot feature that guides the user to send or view the mails, the user can either send the mail using voice commands or can view the email, the email contents are read through the speaker.
+
 Procedure to run the project or Code:
 
 1. Install necessary import packages using 'pip install' using cmd/terminal.
